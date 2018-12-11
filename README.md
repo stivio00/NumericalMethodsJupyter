@@ -1,8 +1,8 @@
-# Métodos Númericos para ingenieria utilizando Python
+# Métodos Númericos para Ingeniería Utilizando Python
 
-En este repositorio encontrara el codigo fuente para utilizar el libro interactivo de Introudcción a llos Métodos Númericos utilizando python. Los métodos númericos son utilizados en ingeniería para solución de problemas. 
+En este repositorio encontrara el codigo fuente para utilizar el libro interactivo de Introudcción a llos Métodos Númericos utilizando python. Los métodos númericos son utilizados en ingeniería Mecaníca para solución de problemas o modelos que no son facilmente solucionables por medios analiticos, ademas de proveer una herramienta automatizada. 
 
-En la versión actual se presenta un draft (borrador) con faltas de ortografía y errores de codigo. Se planifica a finales de este año terminal el material del libro, y seguido una correccion de errores y formato.
+En la versión actual se presenta un borrador (draft) con faltas de ortografía y errores de codigo. Se planifica a finales de este año terminal el material del libro, y seguido una correccion de errores y formato.
 
 
 ## Dependecias
